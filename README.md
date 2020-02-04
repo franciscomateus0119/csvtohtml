@@ -3,7 +3,7 @@
 ```
 ```
 
-Para executar o programa, basta executar o arquivo .bat e o arquivo html será gerado.
+Para realizar as operações, basta executar o arquivo .bat e o arquivo html será gerado.
 
 Entretanto, é necessário que algumas regras sejam cumpridas:
 
