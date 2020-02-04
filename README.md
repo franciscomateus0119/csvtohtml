@@ -2,7 +2,7 @@
 
 ```
 ```
-Para baixar os arquivos, basta clicar no botão verde "Clone or Download" e baixar os arquivos compactados no formato zip ou baixar o repositório através do git.clone.
+Para baixar os arquivos, basta clicar no botão verde "Clone or Download" e baixar os arquivos compactados no formato .zip ou baixar o repositório através do git.clone.
 #
 
 Para realizar as operações, basta executar o arquivo .bat e o arquivo html será gerado.
