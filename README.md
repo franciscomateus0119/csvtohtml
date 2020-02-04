@@ -7,7 +7,7 @@ Para executar o programa, basta que executar o arquivo .bat e o arquivo html ser
 
 Entretanto, é necessário que algumas regras sejam cumpridas:
 
-
+#
 1 - o arquivo deve ser nomeado 'pagamentos_sample.csv'
 
 2 - o arquivo CSV tenha, em sua primeira linha e separado por vírgulas, os campos data e valor.
